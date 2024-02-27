@@ -1,0 +1,996 @@
+source,target
+Laurence Fishburne,Keanu Reeves
+Laurence Fishburne,Carrie-Anne Moss
+Laurence Fishburne,Milo Gibson
+Laurence Fishburne,Abigail Hawk
+Laurence Fishburne,Martin Luther King
+Laurence Fishburne,Obba Babatundé
+Laurence Fishburne,Colin Powell
+Laurence Fishburne,Marlon Brando
+Laurence Fishburne,Robert Duvall
+Laurence Fishburne,Martin Sheen
+Laurence Fishburne,Francis Ford Coppola
+Laurence Fishburne,Eleanor Coppola
+Laurence Fishburne,John Milius
+Laurence Fishburne,Heather Langenkamp
+Laurence Fishburne,Robert Englund
+Laurence Fishburne,Wes Craven
+Keanu Reeves,Gary Oldman
+Keanu Reeves,Richard Linklater
+Keanu Reeves,Philip K. Dick
+Carrie-Anne Moss,Guy Pearce
+Carrie-Anne Moss,Joe Pantoliano
+Carrie-Anne Moss,Billy Zane
+Carrie-Anne Moss,Louis Gossett Jr.
+Carrie-Anne Moss,Kristin Minter
+Milo Gibson,Andrew Garfield
+Milo Gibson,Sam Worthington
+Milo Gibson,Vince Vaughn
+Martin Luther King,Rosa Parks
+Martin Luther King,Coretta Scott King
+Martin Luther King,Al Sharpton
+Martin Luther King,Valentin Zorin
+Martin Luther King,Jesse Jackson
+Martin Luther King,Andrew Cohen
+Martin Luther King,Lyndon B. Johnson
+Martin Luther King,Arthur John Birch
+Martin Luther King,Jeffrey Wright
+Martin Luther King,Donald Trump
+Martin Luther King,Neil Amdur
+Martin Luther King,Bob Beamon
+Martin Luther King,Jelani Cobb
+Martin Luther King,Angela Davis
+Martin Luther King,Henry Louis Gates  Jr.
+Martin Luther King,Yoruba Richen
+Martin Luther King,Delbert Hunt
+Martin Luther King,Marquette Folley
+Obba Babatundé,Matthew Modine
+Obba Babatundé,Michele Greene
+Obba Babatundé,Vivica A. Fox
+Obba Babatundé,Rudolph Moise
+Obba Babatundé,Jodie Foster
+Obba Babatundé,Anthony Hopkins
+Obba Babatundé,Scott Glenn
+Colin Powell,Halle Berry
+Colin Powell,Angela Bassett
+Colin Powell,George W. Bush
+Colin Powell,Tony Blair
+Colin Powell,Marion Barry Jr.
+Colin Powell,Chuck Brown
+Colin Powell,Lewis Franklin
+Marlon Brando,Karl Malden
+Marlon Brando,Lee J. Cobb
+Marlon Brando,Al Pacino
+Marlon Brando,Jay Sebring
+Marlon Brando,Michael Jackson
+Marlon Brando,Muhammad Ali
+Marlon Brando,Marc Anthony
+Marlon Brando,Beyoncé
+Marlon Brando,Dustin Hoffman
+Marlon Brando,Samuel Goldwyn
+Marlon Brando,Tony Goldwyn
+Robert Duvall,Robert De Niro
+Robert Duvall,Anthony Franciosa
+Robert Duvall,Jill St. John
+Robert Duvall,Jack Klugman
+Robert Duvall,Michael Rooker
+Robert Duvall,Cary Elwes
+Robert Duvall,Javier Bardem
+Robert Duvall,Lesley Manville
+Robert Duvall,Jesse Eisenberg
+Robert Duvall,Richard Dreyfuss
+Robert Duvall,Robert Dalva
+Robert Duvall,Gregory Peck
+Robert Duvall,John Megna
+Robert Duvall,Frank Overton
+Martin Sheen,Russell Means
+Martin Sheen,Floyd Red Crow Westerman
+Martin Sheen,Bradley Whitford
+Martin Sheen,Richard Schiff
+Martin Sheen,Joe Mantegna
+Martin Sheen,Joanna Pacula
+Martin Sheen,Sissy Spacek
+Martin Sheen,Kathleen Kennedy
+Martin Sheen,Alexandra Hay
+Martin Sheen,Rod McCary
+Martin Sheen,Coleman Barks
+Martin Sheen,Robert Bly
+Martin Sheen,Peter Coyote
+Martin Sheen,Jack Nicholson
+Martin Sheen,Leonardo DiCaprio
+Martin Sheen,Matt Damon
+Martin Sheen,Illeana Douglas
+Martin Sheen,Mackenzie Foy
+Martin Sheen,Joey King
+Martin Sheen,Dane DeHaan
+Martin Sheen,Martin Landau
+Martin Sheen,Arye Gross
+Martin Sheen,Kevin Bacon
+Martin Sheen,Matt Bomer
+Martin Sheen,George Clooney
+Martin Sheen,Brian Becker
+Martin Sheen,Richard Becker
+Francis Ford Coppola,George Lucas
+Francis Ford Coppola,John Lasseter
+Francis Ford Coppola,Meryl Streep
+Francis Ford Coppola,Steven Spielberg
+Francis Ford Coppola,Beth Lane
+Francis Ford Coppola,Raúl Juliá
+Francis Ford Coppola,Wim Wenders
+Francis Ford Coppola,Willem Dafoe
+Francis Ford Coppola,Martin Scorsese
+Francis Ford Coppola,Brian De Palma
+Francis Ford Coppola,Woody Allen
+Francis Ford Coppola,Tim Burton
+Francis Ford Coppola,Jim Henson
+Francis Ford Coppola,Frank Oz
+Francis Ford Coppola,Jamie Foxx
+Francis Ford Coppola,Charles Scorsese
+John Milius,Andrew Robinson
+John Milius,Clint Eastwood
+John Milius,Michael Madsen
+John Milius,Scott Allie
+John Milius,Julie Belle
+John Milius,Kurt Busiek
+Heather Langenkamp,Tom Atkins
+Heather Langenkamp,Lloyd Kaufman
+Heather Langenkamp,Eli Roth
+Heather Langenkamp,Lance Henriksen
+Robert Englund,Dario Argento
+Robert Englund,Barbara Crampton
+Robert Englund,Roger Corman
+Robert Englund,Bruce D. Clark
+Robert Englund,Forrest J. Ackerman
+Robert Englund,John Zacherle
+Robert Englund,Kane Hodder
+Robert Englund,John Carl Buechler
+Robert Englund,Bruce Campbell
+Robert Englund,Rick Baker
+Robert Englund,Josh Keaton
+Robert Englund,Lacey Chabert
+Robert Englund,James Arnold Taylor
+Robert Englund,John Carpenter
+Robert Englund,Glenn Close
+Robert Englund,Daniel Roebuck
+Robert Englund,Bob Burns
+Robert Englund,Chuck Williams
+Wes Craven,Christopher Lee
+Wes Craven,Stephen King
+Wes Craven,Henry Strozier
+Gary Oldman,Kazuhiro Tsuji
+Gary Oldman,Chet Zar
+Gary Oldman,Jean Reno
+Gary Oldman,Natalie Portman
+Gary Oldman,Christian Bale
+Gary Oldman,Heath Ledger
+Gary Oldman,Michael Caine
+Gary Oldman,Daniel Radcliffe
+Gary Oldman,Rupert Grint
+Gary Oldman,Emma Watson
+Gary Oldman,Criss Angel
+Gary Oldman,Steve Aoki
+Richard Linklater,Don Phillips
+Richard Linklater,Sean Daniel
+Richard Linklater,Kent Jones
+Richard Linklater,Ethan Hawke
+Richard Linklater,Julie Delpy
+Richard Linklater,Xenia Kalogeropoulou
+Guy Pearce,Alexander Nathan Etel
+Guy Pearce,Stephan Elliott
+Guy Pearce,Hugo Weaving
+Joe Pantoliano,Richard Donner
+Joe Pantoliano,Jeff Cohen
+Joe Pantoliano,Corey Feldman
+Billy Zane,Kevin Alejandro
+Billy Zane,Mimi Rogers
+Billy Zane,John Terry
+Billy Zane,Sadie Frost
+Billy Zane,Shannon Elizabeth
+Billy Zane,Ed O'Ross
+Billy Zane,Alki David
+Billy Zane,Gary Busey
+Billy Zane,Kristanna Loken
+Billy Zane,Vanessa Angel
+Billy Zane,Louise Lombard
+Billy Zane,John Shrapnel
+Billy Zane,Stephen Moore
+Billy Zane,Patrick Bergin
+Billy Zane,Griffith Brewer
+Billy Zane,Michael J. Fox
+Billy Zane,Christopher Lloyd
+Billy Zane,Lea Thompson
+Louis Gossett Jr.,Anthony LaPaglia
+Louis Gossett Jr.,Robert Townsend
+Louis Gossett Jr.,Andre Braugher
+Louis Gossett Jr.,Nick Cannon
+Louis Gossett Jr.,Whoopi Goldberg
+Louis Gossett Jr.,Franklyn Ajaye
+Louis Gossett Jr.,Bill Bellamy
+Louis Gossett Jr.,Robert Altman
+Louis Gossett Jr.,Warren Beatty
+Kristin Minter,Judge Reinhold
+Kristin Minter,Stephi Lineburg
+Andrew Garfield,Nathan Lane
+Andrew Garfield,Susan Brown
+Andrew Garfield,Donna Air
+Andrew Garfield,Ozwald Boateng
+Sam Worthington,James Cameron
+Sam Worthington,Zoe Saldana
+Vince Vaughn,Kristen Bell
+Vince Vaughn,Kirby Howell-Baptiste
+Vince Vaughn,Paul Walter Hauser
+Vince Vaughn,Christopher Doyle
+Vince Vaughn,Danny Elfman
+Vince Vaughn,Philip Baker Hall
+Rosa Parks,Fred Korematsu
+Al Sharpton,Tupac Shakur
+Al Sharpton,Michael Dorn
+Al Sharpton,Elizabeth Taylor
+Valentin Zorin,Joseph McCarthy
+Valentin Zorin,Junior Wells
+Valentin Zorin,John F. Kennedy
+Valentin Zorin,Jean Paul Getty
+Valentin Zorin,Haroldson Lafayette Hunt
+Valentin Zorin,Howard Hughes
+Jesse Jackson,Mahalia Jackson
+Jesse Jackson,Horace Clarence Boyer
+Jesse Jackson,Stevie Wonder
+Jesse Jackson,Lin-Manuel Miranda
+Jesse Jackson,Mike Ditka
+Jesse Jackson,Jim McMahon
+Jesse Jackson,Mike Singletary
+Lyndon B. Johnson,Jacqueline Kennedy
+Lyndon B. Johnson,Samuel Labarthe
+Lyndon B. Johnson,Charles de Gaulle
+Lyndon B. Johnson,Fred Rogers
+Lyndon B. Johnson,François Scarborough Clemmons
+Lyndon B. Johnson,Yo-Yo Ma
+Jeffrey Wright,Ben Maccabee
+Jeffrey Wright,Oscar Isaac
+Jeffrey Wright,Frances McDormand
+Jeffrey Wright,John Turturro
+Jeffrey Wright,Jennifer Lawrence
+Jeffrey Wright,Francis Lawrence
+Donald Trump,Ed Koch
+Donald Trump,Herschel Walker
+Donald Trump,Skip Bayless
+Donald Trump,Bruno Sammartino
+Donald Trump,Bob Backlund
+Donald Trump,Robert Kennedy Jr
+Donald Trump,William Shatner
+Donald Trump,Catherine Mercado-Muñiz
+Donald Trump,Carmen Yulín Cruz
+Donald Trump,Jon Voight
+Donald Trump,Roger Ailes
+Donald Trump,Michael Hickenbottom
+Donald Trump,John Cena
+Donald Trump,Edward Fatu
+Donald Trump,Frederick Oberlander
+Donald Trump,Tevfik Arif
+Donald Trump,Randy Orton
+Donald Trump,Steve Austin
+Donald Trump,Liane Rudolph
+Donald Trump,Pyotr Tolstoy
+Donald Trump,Vladimir Pozner jr.
+Donald Trump,Kim Delaney
+Donald Trump,Jack Scalia
+Donald Trump,Hulk Hogan
+Donald Trump,Sebastian Gorka
+Donald Trump,Raheem Kassam
+Donald Trump,Corey Lewandowski
+Donald Trump,Joan Agajanian Quinn
+Donald Trump,Jean-Michel Basquiat
+Donald Trump,Ralph Fiennes
+Donald Trump,Taghi Amirani
+Donald Trump,Farhad Diba
+Donald Trump,Chris Benoit
+Donald Trump,Paul Michael Lévesque
+Neil Amdur,Abraham Beame
+Neil Amdur,Bob Bright
+Angela Davis,Erika Andiola
+Angela Davis,Bob Bland
+Angela Davis,Emicida
+Angela Davis,Fernanda Montenegro
+Angela Davis,Zeca Pagodinho
+Henry Louis Gates  Jr.,Sam Elliott
+Henry Louis Gates  Jr.,Neal McDonough
+Matthew Modine,Adam Baldwin
+Matthew Modine,Vincent D'Onofrio
+Matthew Modine,Mike Chunn
+Matthew Modine,Nick D'Angelo
+Matthew Modine,Alan Alda
+Matthew Modine,Jane Alexander
+Michele Greene,Harry Hamlin
+Michele Greene,Linda Doucett
+Michele Greene,Corbin Bernsen
+Michele Greene,Susan Dey
+Vivica A. Fox,Mariah Robinson
+Vivica A. Fox,Arie Thompson
+Vivica A. Fox,Corin Nemec
+Vivica A. Fox,Uma Thurman
+Vivica A. Fox,Lucy Liu
+Vivica A. Fox,Clifton Powell
+Vivica A. Fox,DMX
+Vivica A. Fox,Joy Rovaris
+Vivica A. Fox,Nadji Jeter
+Vivica A. Fox,Jazsmin Lewis
+Vivica A. Fox,Darrin Henson
+Vivica A. Fox,Terri J. Vaughn
+Vivica A. Fox,Lawrence Bender
+Vivica A. Fox,Quentin Tarantino
+Vivica A. Fox,Shelly Altman
+Vivica A. Fox,John Aniston
+Vivica A. Fox,Alec Baldwin
+Vivica A. Fox,Lauren Collins
+Vivica A. Fox,Nina Dobrev
+Vivica A. Fox,Cassie Steele
+Rudolph Moise,Jessica Geneus
+Rudolph Moise,Jimmy Jean-Louis
+Rudolph Moise,Soledad Elizabeth Jean
+Jodie Foster,Albert Brooks
+Jodie Foster,Mathieu Kassovitz
+Jodie Foster,Clovis Goux
+Jodie Foster,B. Ruby Rich
+Anthony Hopkins,John Hurt
+Anthony Hopkins,Anne Bancroft
+Anthony Hopkins,Olivia Colman
+Anthony Hopkins,Mark Gatiss
+Anthony Hopkins,Ellen Burstyn
+Scott Glenn,Mia Farrow
+Scott Glenn,Mary-Louise Parker
+Scott Glenn,Kyle Gallner
+Scott Glenn,Saffron Burrows
+Scott Glenn,Juliette Binoche
+Halle Berry,Jimmy Smits
+Halle Berry,Nickolas Grace
+Halle Berry,Eric Thal
+Halle Berry,Famke Janssen
+Halle Berry,Michelle Pfeiffer
+Halle Berry,Anne Hathaway
+Halle Berry,Zoë Kravitz
+Halle Berry,Eartha Kitt
+Halle Berry,Julie Newmar
+Halle Berry,John Travolta
+Halle Berry,Nancy Allen
+Angela Bassett,Regina Hall
+Angela Bassett,Terrence Jenkins
+Angela Bassett,Tina Fey
+Angela Bassett,Graham Norton
+Angela Bassett,Robert Downey Jr.
+Angela Bassett,Chris Evans
+Angela Bassett,Mark Ruffalo
+George W. Bush,Condoleezza Rice
+George W. Bush,Billy Crystal
+George W. Bush,Anthony Amsterdam
+George W. Bush,Darrell Royal
+George W. Bush,Willie Nelson
+George W. Bush,Ed Marinaro
+George W. Bush,Abbas Abdi
+George W. Bush,Mahmoud Ahmadinejad
+George W. Bush,Osama bin Laden
+George W. Bush,John Ashcroft
+George W. Bush,Bob Brenly
+Tony Blair,Sérgio Vieira de Mello
+Tony Blair,David Cameron
+Tony Blair,Trevor Phillips
+Tony Blair,Nigel Farage
+Tony Blair,Princess Diana of Wales
+Tony Blair,Prince Charles of Edinburgh
+Tony Blair,Arielle Dombasle
+Tony Blair,Michel Houellebecq
+Tony Blair,Kathy Burke
+Tony Blair,Keith Allen
+Tony Blair,Amir Amor
+Lee J. Cobb,Enrico Maria Salerno
+Lee J. Cobb,Jean Sorel
+Lee J. Cobb,Martin Balsam
+Lee J. Cobb,John Fiedler
+Lee J. Cobb,Rosalind Russell
+Lee J. Cobb,Melvyn Douglas
+Lee J. Cobb,Binnie Barnes
+Al Pacino,Steven Bauer
+Al Pacino,Sidney Lumet
+Michael Jackson,Siedah Garrett
+Michael Jackson,David Williams
+Michael Jackson,Pat Dade
+Michael Jackson,Amy Smallman
+Michael Jackson,Isaiah Sanders
+Michael Jackson,Brad Buxer
+Michael Jackson,Ola Ray
+Michael Jackson,Vincent Price
+Michael Jackson,John Landis
+Michael Jackson,Sheryl Crow
+Michael Jackson,Greg Phillinganes
+Michael Jackson,Danny Wu
+Michael Jackson,Charles Thomson
+Michael Jackson,Anjelica Huston
+Michael Jackson,Macaulay Culkin
+Michael Jackson,Kieran Culkin
+Michael Jackson,Phil Collins
+Michael Jackson,Leslie Uggams
+Michael Jackson,Ethel Merman
+Michael Jackson,Jane Fonda
+Michael Jackson,Quincy Jones
+Michael Jackson,Jacques Peretti
+Michael Jackson,Donny Osmond
+Michael Jackson,Sammy Davis Jr.
+Michael Jackson,Frank Sinatra
+Michael Jackson,Dean Martin
+Michael Jackson,André Benjamin
+Michael Jackson,Anthony Kiedis
+Michael Jackson,Adam Ant
+Michael Jackson,Nick Ashford
+Michael Jackson,Renaldo Benson
+Michael Jackson,Vanessa Williams
+Michael Jackson,Whitney Houston
+Michael Jackson,Ella Fitzgerald
+Muhammad Ali,Rocky Marciano
+Muhammad Ali,Chris Dundee
+Muhammad Ali,Joe Frazier
+Muhammad Ali,Mark Holden
+Muhammad Ali,George Foreman
+Muhammad Ali,Mark Calaway
+Marc Anthony,Daddy Yankee
+Marc Anthony,Bad Bunny
+Marc Anthony,John Leguizamo
+Marc Anthony,Sofía Vergara
+Marc Anthony,Gloria Estefan
+Marc Anthony,Lucas Foster
+Marc Anthony,Tony Scott
+Beyoncé,Jay-Z
+Beyoncé,Kanye West
+Beyoncé,Tina Knowles
+Beyoncé,Serena Williams
+Beyoncé,Kelly Rowland
+Beyoncé,Donald Glover
+Beyoncé,Thandiwe Newton
+Beyoncé,Forest Whitaker
+Beyoncé,Nas
+Beyoncé,Guy Berryman
+Beyoncé,Jon Buckland
+Beyoncé,Will Champion
+Beyoncé,Barack Obama
+Beyoncé,Michelle Obama
+Beyoncé,Ryan Seacrest
+Beyoncé,Auli'i Cravalho
+Beyoncé,50 Cent
+Beyoncé,Jon Bon Jovi
+Dustin Hoffman,Bette Midler
+Dustin Hoffman,Emmett Kelly
+Dustin Hoffman,Vito Russo
+Dustin Hoffman,Orson Bean
+Dustin Hoffman,Dan Aykroyd
+Dustin Hoffman,Candice Bergen
+Dustin Hoffman,James Brolin
+Dustin Hoffman,Leonardo Sbaraglia
+Dustin Hoffman,Alfredo Casero
+Tony Goldwyn,Sally Field
+Tony Goldwyn,Ron Silver
+Robert De Niro,James Woods
+Robert De Niro,Elizabeth McGovern
+Robert De Niro,Sharon Stone
+Robert De Niro,Joe Pesci
+Robert De Niro,Cathy Moriarty
+Robert De Niro,Christopher Walken
+Robert De Niro,John Cazale
+Robert De Niro,Ray Liotta
+Robert De Niro,Joaquin Phoenix
+Robert De Niro,Zazie Beetz
+Robert De Niro,Edward Norton
+Robert De Niro,Ennio Morricone
+Robert De Niro,John Boorman
+Robert De Niro,Lorraine Bracco
+Robert De Niro,Steve Martin
+Robert De Niro,Diane Keaton
+Robert De Niro,Martin Short
+Robert De Niro,Christiane Amanpour
+Robert De Niro,Neil Barnard
+Robert De Niro,Bono
+Robert De Niro,Tony Bennett
+Robert De Niro,Christina Aguilera
+Robert De Niro,Andrea Bocelli
+Robert De Niro,Fred Armisen
+Anthony Franciosa,Claudia Cardinale
+Anthony Franciosa,Betsy Blair
+Anthony Franciosa,Rita Hayworth
+Anthony Franciosa,Gig Young
+Anthony Franciosa,Kim Basinger
+Anthony Franciosa,Robert Board
+Jill St. John,Doug McClure
+Jack Klugman,Alfred Drake
+Jack Klugman,Patricia Morison
+Jack Klugman,Julie Wilson
+Michael Rooker,Alex Diakun
+Michael Rooker,Graham Greene
+Michael Rooker,Litefoot
+Michael Rooker,Irene Bedard
+Michael Rooker,Victoria Alonso
+Michael Rooker,Benicio del Toro
+Michael Rooker,Dave Bautista
+Michael Rooker,Frank Darabont
+Michael Rooker,Robert Kirkman
+Michael Rooker,Denise M. Huth
+Michael Rooker,Zach Callison
+Michael Rooker,James Garner
+Cary Elwes,Brooke Shields
+Cary Elwes,Rob Reiner
+Cary Elwes,James Wan
+Cary Elwes,Leigh Whannell
+Cary Elwes,Geoffrey Moore
+Cary Elwes,Ambra Moore
+Javier Bardem,Carmen Maura
+Javier Bardem,Antonio Banderas
+Javier Bardem,Pilar López de Ayala
+Javier Bardem,Timothée Chalamet
+Javier Bardem,Rebecca Ferguson
+Lesley Manville,Jane Horrocks
+Jesse Eisenberg,Ben Affleck
+Jesse Eisenberg,Henry Cavill
+Jesse Eisenberg,Gal Gadot
+Richard Dreyfuss,Kirk Douglas
+Richard Dreyfuss,Danny Masterson
+Richard Dreyfuss,Julie Garfield
+Richard Dreyfuss,Ellen Adler
+Richard Dreyfuss,Joseph Bernard
+Russell Means,Amara Zaragoza
+Russell Means,Trent Ford
+Richard Schiff,Morgan Freeman
+Richard Schiff,Brad Pitt
+Richard Schiff,Gwyneth Paltrow
+Joe Mantegna,Gail O'Grady
+Joe Mantegna,Suzanne Happ
+Joe Mantegna,Gary Sinise
+Joe Mantegna,Bonnie Hunt
+Joe Mantegna,Anne Archer
+Joe Mantegna,Tobin Bell
+Joe Mantegna,David Carradine
+Joe Mantegna,James Cromwell
+Joanna Pacula,Sam Robards
+Sissy Spacek,Emma Stone
+Sissy Spacek,Viola Davis
+Sissy Spacek,Octavia Spencer
+Alexandra Hay,Bryan Marshall
+Alexandra Hay,Sandor Elès
+Alexandra Hay,Angus Duncan
+Alexandra Hay,Angel Tompkins
+Alexandra Hay,Heidi Brühl
+Alexandra Hay,Adam Roarke
+Alexandra Hay,Larry Bishop
+Alexandra Hay,Daniel Massey
+Alexandra Hay,William Windom
+Alexandra Hay,Debbie Reynolds
+Alexandra Hay,Maurice Ronet
+Peter Coyote,Malcolm McDowell
+Peter Coyote,Roseanne Barr
+Peter Coyote,Wesley Clark
+Peter Coyote,Dr. Diane Ravitch
+Peter Coyote,Dermot Mulroney
+Peter Coyote,Lesley Ann Warren
+Peter Coyote,Swoosie Kurtz
+Peter Coyote,Ann-Margret
+Peter Coyote,Leslie Hope
+Peter Coyote,Paulo Pires
+Peter Coyote,Woody Guthrie
+Peter Coyote,Rick Sharp
+Peter Coyote,Jerry Dealey
+Peter Coyote,J. Allen Hynek
+Peter Coyote,Kevin Conway
+Peter Coyote,Mumia Abu-Jamal
+Peter Coyote,Rubin 'Hurricane' Carter
+Peter Coyote,Giancarlo Esposito
+Peter Coyote,Tenzin Gyatso
+Peter Coyote,Xiaoming Zhu
+Peter Coyote,Jeanmarie Simpson
+Peter Coyote,Patricia Arquette
+Jack Nicholson,Louise Fletcher
+Jack Nicholson,Danny DeVito
+Jack Nicholson,Shelley Duvall
+Jack Nicholson,Scatman Crothers
+Jack Nicholson,Kevin Conroy
+Jack Nicholson,Neal Adams
+Jack Nicholson,Will Arnett
+Leonardo DiCaprio,Ben Kingsley
+Leonardo DiCaprio,Joseph Gordon-Levitt
+Leonardo DiCaprio,Ken Watanabe
+Leonardo DiCaprio,Jonah Hill
+Leonardo DiCaprio,Margot Robbie
+Leonardo DiCaprio,Frank Welker
+Leonardo DiCaprio,Christoph Waltz
+Leonardo DiCaprio,Frank Abagnale Jr.
+Matt Damon,Robin Williams
+Matt Damon,Jon Bernthal
+Matt Damon,Tom Hanks
+Matt Damon,Tom Sizemore
+Matt Damon,Edward Burns
+Matt Damon,Peter Stormare
+Matt Damon,Monica Bellucci
+Matt Damon,Matthew McConaughey
+Matt Damon,Jessica Chastain
+Illeana Douglas,Michael Angarano
+Illeana Douglas,Griffin Dunne
+Illeana Douglas,Clarence Williams III
+Illeana Douglas,Mark Kassen
+Illeana Douglas,Tom Bower
+Illeana Douglas,Joe Dante
+Illeana Douglas,Kevin Pollak
+Illeana Douglas,Joe Dietl
+Illeana Douglas,Jeff Bridges
+Illeana Douglas,Reid Scott
+Illeana Douglas,Barbara Hershey
+Illeana Douglas,Grace Kaufman
+Mackenzie Foy,Kate Winslet
+Mackenzie Foy,Iain Glen
+Joey King,McCaul Lombardi
+Joey King,Billy Burke
+Joey King,Abigail Spencer
+Joey King,Jason Clarke
+Joey King,Roland Emmerich
+Dane DeHaan,James Hetfield
+Dane DeHaan,Lars Ulrich
+Martin Landau,John Gazarian
+Martin Landau,Darlene Landau
+Martin Landau,Beau Bridges
+Martin Landau,Ted Shackelford
+Martin Landau,Sally Kellerman
+Martin Landau,Paul Mercurio
+Martin Landau,Dominique Sanda
+Martin Landau,Lindsay Wagner
+Martin Landau,Lee Majors
+Martin Landau,Tom Schanley
+Martin Landau,Cary Grant
+Martin Landau,Eva Marie Saint
+Martin Landau,James Mason
+Arye Gross,John Savage
+Arye Gross,James Wilder
+Arye Gross,Joanne Baron
+Kevin Bacon,Robert Lee
+Kevin Bacon,Matty Simmons
+Kevin Bacon,Harold Ramis
+Matt Bomer,Mart Crowley
+Matt Bomer,Jim Parsons
+George Clooney,Joel Coen
+George Clooney,Ethan Coen
+George Clooney,Maria Ressa
+George Clooney,Pia Ranada
+George Clooney,Carroll Baker
+George Lucas,Dave Filoni
+George Lucas,Joseph Campbell
+George Lucas,Samuel L. Jackson
+George Lucas,Tim Allen
+George Lucas,Antony Horder
+George Lucas,John Williams
+George Lucas,Harrison Ford
+George Lucas,Sean Connery
+George Lucas,Nobuhiko Ōbayashi
+George Lucas,Akira Kurosawa
+George Lucas,Carrie Fisher
+George Lucas,Billy Dee Williams
+George Lucas,Kenny Baker
+George Lucas,Irvin Kershner
+George Lucas,Gary Kurtz
+George Lucas,Jeremy Bulloch
+John Lasseter,Kelsey Grammer
+John Lasseter,Bruno Bozzetto
+John Lasseter,Corey Burton
+John Lasseter,Walt Disney
+John Lasseter,Bernice Hansen
+John Lasseter,Isao Takahata
+John Lasseter,Hayao Miyazaki
+John Lasseter,Steve Alpert
+John Lasseter,Jerry Beck
+John Lasseter,Don Rickles
+Meryl Streep,Angelina Jolie
+Meryl Streep,Andra Day
+Meryl Streep,Paul McCartney
+Meryl Streep,Abraham Laboriel Jr.
+Meryl Streep,Eminem
+Steven Spielberg,Charlie Chaplin
+Steven Spielberg,Katy Emde
+Steven Spielberg,Robert Zemeckis
+Steven Spielberg,Bob Gale
+Steven Spielberg,Nicole Kidman
+Steven Spielberg,Tom Cruise
+Steven Spielberg,Rudy Behlmer
+Steven Spielberg,Ben Burtt
+Steven Spielberg,Scott Bakula
+Steven Spielberg,Alan Ball
+Raúl Juliá,William Hurt
+Wim Wenders,Sebastião Salgado
+Wim Wenders,Juliano Ribeiro Salgado
+Wim Wenders,Lotte Eisner
+Wim Wenders,Werner Herzog
+Wim Wenders,Volker Schlöndorff
+Wim Wenders,Dennis Hopper
+Wim Wenders,David Lynch
+Wim Wenders,Satya De La Manitou
+Wim Wenders,Mark Cousins
+Wim Wenders,Jean-Michel Frodon
+Willem Dafoe,Julianne Nicholson
+Willem Dafoe,Christopher Heyerdahl
+Willem Dafoe,Oliver Stone
+Willem Dafoe,Tony Revolori
+Willem Dafoe,Adrien Brody
+Willem Dafoe,Abel Ferrara
+Willem Dafoe,Stuart Alson
+Willem Dafoe,Asia Argento
+Willem Dafoe,Ron Vawter
+Willem Dafoe,Kate Valk
+Willem Dafoe,Anna Köhler
+Willem Dafoe,Ari Fliakos
+Willem Dafoe,Beatrice Roth
+Willem Dafoe,Sean Baker
+Willem Dafoe,Alexis Zabe
+Willem Dafoe,Barry Gifford
+Martin Scorsese,Robert Sklar
+Martin Scorsese,Alain Silver
+Martin Scorsese,Drew Casper
+Martin Scorsese,Thierry Frémaux
+Martin Scorsese,Auguste Lumière
+Martin Scorsese,David Cronenberg
+Martin Scorsese,Ron Howard
+Martin Scorsese,Gabriel Byrne
+Martin Scorsese,Maureen O'Hara
+Martin Scorsese,Peter Bogdanovich
+Martin Scorsese,Alfred Hitchcock
+Martin Scorsese,Donald Spoto
+Martin Scorsese,Robbie Robertson
+Martin Scorsese,Buffy Sainte-Marie
+Martin Scorsese,John Trudell
+Martin Scorsese,Joe Carnahan
+Martin Scorsese,Harry Styles
+Martin Scorsese,Niall Horan
+Martin Scorsese,Zayn Malik
+Martin Scorsese,Amalia Ulman
+Martin Scorsese,Nacho Vigalondo
+Brian De Palma,Rebecca Romijn
+Brian De Palma,George Litto
+Brian De Palma,Kevin Spacey
+Brian De Palma,Jonathan Demme
+Woody Allen,Bob Hope
+Woody Allen,Erroll Garner
+Woody Allen,George Avakian
+Woody Allen,Sven Nykvist
+Woody Allen,Erland Josephson
+Woody Allen,Ingmar Bergman
+Woody Allen,Bert Stern
+Woody Allen,Louis Armstrong
+Woody Allen,Marvin Hamlisch
+Woody Allen,Barbra Streisand
+Woody Allen,Steven Soderbergh
+Tim Burton,Johnny Depp
+Tim Burton,Nick Davis
+Jim Henson,Camille Bonora
+Jim Henson,Rickey Boyd
+Jim Henson,Joan Ganz Cooney
+Jim Henson,Jon Stone
+Jim Henson,Steve Whitmire
+Jim Henson,Eric Jacobson
+Jim Henson,Fran Brill
+Jim Henson,Michael Maloney
+Jim Henson,Juliet Stevenson
+Frank Oz,Jerry Nelson
+Frank Oz,Peter Linz
+Frank Oz,Mark Hamill
+Frank Oz,Anthony Daniels
+Frank Oz,Rian Johnson
+Frank Oz,Ana de Armas
+Jamie Foxx,Michael B. Jordan
+Jamie Foxx,Brie Larson
+Jamie Foxx,Clive Davis
+Jamie Foxx,Jaden Smith
+Jamie Foxx,Susan Sarandon
+Jamie Foxx,Richard Pryor
+Jamie Foxx,Mario Cantone
+Jamie Foxx,Cedric the Entertainer
+Clint Eastwood,Hilary Swank
+Clint Eastwood,Eli Wallach
+Clint Eastwood,Lee Van Cleef
+Clint Eastwood,Gian Maria Volontè
+Clint Eastwood,Christopher Carley
+Clint Eastwood,Bee Vang
+Clint Eastwood,Johnny Mercer
+Clint Eastwood,Bill Charlap
+Clint Eastwood,Sergio Leone
+Clint Eastwood,Jean-Yves Berteloot
+Clint Eastwood,Hal Holbrook
+Clint Eastwood,Bruce Lee
+Clint Eastwood,Jackie Chan
+Clint Eastwood,Jean-Claude Van Damme
+Michael Madsen,Maureen McCarthy
+Michael Madsen,Carlie Guevara
+Michael Madsen,Ed Asner
+Michael Madsen,Harvey Keitel
+Michael Madsen,Tim Roth
+Michael Madsen,Chad McQueen
+Michael Madsen,Dom DeLuise
+Michael Madsen,Gary Daniels
+Michael Madsen,Christopher Stapleton
+Michael Madsen,Jesse Bernstein
+Michael Madsen,Bryan Clark
+Michael Madsen,Callie Khouri
+Michael Madsen,Mimi Polk Gitlin
+Michael Madsen,Robert Scott Wilson
+Michael Madsen,David Proval
+Tom Atkins,Danny Glover
+Tom Atkins,Doug Bradley
+Tom Atkins,Jeffrey Combs
+Lloyd Kaufman,Rusty Goffe
+Lloyd Kaufman,Sophia Disgrace
+Lloyd Kaufman,Rachel Grubb
+Lloyd Kaufman,Ari Lehman
+Lloyd Kaufman,Judah Friedlander
+Lloyd Kaufman,John P. Brennan
+Lloyd Kaufman,Paymon Seyedi
+Lloyd Kaufman,Ron Jeremy
+Lloyd Kaufman,Gilbert Gottfried
+Lloyd Kaufman,Cody Baggenstos
+Lloyd Kaufman,Justin Shand
+Lloyd Kaufman,Jörg Buttgereit
+Lloyd Kaufman,James Balsamo
+Lloyd Kaufman,Glenn Berggoetz
+Lloyd Kaufman,Zack Beseda
+Lloyd Kaufman,Count Smokula
+Lloyd Kaufman,Bruno Tonioli
+Lloyd Kaufman,Jeremy Ambler
+Lloyd Kaufman,Teresa Ambler
+Lloyd Kaufman,Katt Balsan
+Lloyd Kaufman,Susie Duecker
+Lloyd Kaufman,Patricia Quinn
+Lloyd Kaufman,Shawn C. Phillips
+Eli Roth,Jay Hernandez
+Eli Roth,Mélanie Laurent
+Eli Roth,Cerina Vincent
+Eli Roth,Sam Page
+Eli Roth,Sydney Tamiia Poitier
+Eli Roth,Heather Matarazzo
+Eli Roth,Garret Dillahunt
+Eli Roth,Ellen Sandweiss
+Eli Roth,Theresa Tilly
+Lance Henriksen,Rob Morrow
+Lance Henriksen,Donna Murphy
+Lance Henriksen,Sarah-Jane Redmond
+Lance Henriksen,Barra Grant
+Lance Henriksen,Molly Ringwald
+Lance Henriksen,Kathryn Bigelow
+Lance Henriksen,Bill Paxton
+Lance Henriksen,James Caan
+Lance Henriksen,James Aaron Oliver
+Lance Henriksen,Jonathan Mangum
+Lance Henriksen,John Kassir
+Lance Henriksen,Mary Ellen Trainor
+Lance Henriksen,Beau Billingslea
+Lance Henriksen,Steve Blum
+Lance Henriksen,Crispin Freeman
+Dario Argento,Luigi Cozzi
+Dario Argento,Annette Chaton
+Dario Argento,Marcus Hearn
+Dario Argento,Mick Garris
+Dario Argento,Giovanna Mezzogiorno
+Dario Argento,Piero Tosi
+Roger Corman,Charles Band
+Roger Corman,Ted Newsom
+Roger Corman,Ivan Cardoso
+Roger Corman,Clive Barker
+Roger Corman,José Ferrer
+Roger Corman,Dana Andrews
+Roger Corman,Martine Beswick
+Forrest J. Ackerman,Karen Allen
+Forrest J. Ackerman,Ricou Browning
+Forrest J. Ackerman,Leonard Maltin
+Forrest J. Ackerman,Roddy McDowall
+Forrest J. Ackerman,Richard Kiley
+Forrest J. Ackerman,Bob Kokai
+Forrest J. Ackerman,Ronald V. Borst
+Forrest J. Ackerman,Jeff Rector
+Forrest J. Ackerman,William Marshall
+Forrest J. Ackerman,Griffin Drew
+John Zacherle,Rodney Gray
+John Zacherle,Debbie Rochon
+John Zacherle,Nathan Sears
+Kane Hodder,Renny Harlin
+Kane Hodder,Marilyn Eastman
+Kane Hodder,Gunnar Hansen
+Kane Hodder,Karl Hardman
+Kane Hodder,Chuck Connors
+Kane Hodder,Robert Z'Dar
+Kane Hodder,Ron O'Neal
+Kane Hodder,Sean S. Cunningham
+Kane Hodder,Adrienne King
+Kane Hodder,Betsy Palmer
+Kane Hodder,Michael Berryman
+Kane Hodder,John Bloom
+John Carl Buechler,Jeff Kim
+Bruce Campbell,Nick Wolfhard
+Bruce Campbell,Charles Demers
+Bruce Campbell,Mandy Moore
+Bruce Campbell,Zachary Levi
+Rick Baker,Paul Davis
+Rick Baker,Jenny Agutter
+Rick Baker,Nick Dudman
+Rick Baker,Kevin Haney
+Rick Baker,Barry Sonnenfeld
+Josh Keaton,Jeff Bennett
+Josh Keaton,Troy Baker
+Josh Keaton,Mindy Cohn
+Lacey Chabert,Brennan Elliott
+Lacey Chabert,Barbara Niven
+Lacey Chabert,Julie Warner
+Lacey Chabert,Will Kemp
+Lacey Chabert,Marco Soriano
+Lacey Chabert,Elan Garfias
+James Arnold Taylor,Fred Tatasciore
+James Arnold Taylor,Dave B. Mitchell
+James Arnold Taylor,Jim Cummings
+James Arnold Taylor,Wallace Shawn
+James Arnold Taylor,Mikey Kelley
+James Arnold Taylor,Casey Kasem
+James Arnold Taylor,Ben Diskin
+James Arnold Taylor,Peter Weller
+James Arnold Taylor,Ariel Winter
+James Arnold Taylor,David Selby
+John Carpenter,David Foster
+John Carpenter,Bill Lancaster
+John Carpenter,George A. Romero
+John Carpenter,Tyler Lyle
+John Carpenter,Tim McEwan
+John Carpenter,Larry J. Franco
+John Carpenter,Cody Carpenter
+John Carpenter,Cassandra Peterson
+John Carpenter,Jeff Goldblum
+John Carpenter,Tippi Hedren
+John Carpenter,Jean-Michel Jarre
+John Carpenter,Little Boots
+John Carpenter,Kurt Russell
+John Carpenter,Keith David
+John Carpenter,Wilford Brimley
+Glenn Close,Richard Belzer
+Glenn Close,Edie Falco
+Glenn Close,Jill Eikenberry
+Glenn Close,Kevin Dobson
+Glenn Close,Liza Minnelli
+Glenn Close,Bernadette Peters
+Glenn Close,Patti LuPone
+Daniel Roebuck,James Black
+Daniel Roebuck,Kevin Sorbo
+Daniel Roebuck,Sam Sorbo
+Daniel Roebuck,Samantha Mathis
+Daniel Roebuck,Bud Cort
+Bob Burns,Doug Jones
+Bob Burns,Tom Woodruff Jr.
+Bob Burns,Haruo Nakajima
+Christopher Lee,Jon Finch
+Christopher Lee,Judy Geeson
+Christopher Lee,Deirdre Flynn
+Christopher Lee,Peter MacNicol
+Christopher Lee,Dana Hill
+Christopher Lee,Charlie Sheen
+Christopher Lee,Michael Brandon
+Christopher Lee,Eddie Constantine
+Christopher Lee,Dawn Addams
+Christopher Lee,Marius Goring
+Christopher Lee,Selma Brook
+Christopher Lee,Ryan Mercier
+Christopher Lee,Tina Gray
+Christopher Lee,Oliver Reed
+Christopher Lee,Peter Cushing
+Christopher Lee,Bob Wilkins
+Christopher Lee,Boris Karloff
+Christopher Lee,Ewan McGregor
+Christopher Lee,Errol Flynn
+Christopher Lee,Joanne Dru
+Christopher Lee,Peter Finch
+Christopher Lee,Morris Bright
+Christopher Lee,Philip Campbell
+Christopher Lee,Elijah Wood
+Christopher Lee,Ian McKellen
+Christopher Lee,Liv Tyler
+Christopher Lee,Christina Hazard
+Christopher Lee,Karl Kite-Rangi
+Christopher Lee,Andrew Lesnie
+Stephen King,Dave Barry
+Stephen King,Thomas Gottschalk
+Stephen King,John Lithgow
+Stephen King,Andy Bean
+Stephen King,Marsha DeFilippo
+Henry Strozier,Eddie Albert
+Henry Strozier,Rip Torn
