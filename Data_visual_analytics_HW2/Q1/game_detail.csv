@@ -1,0 +1,11 @@
+supported,category,count_category,avg_rating,avg_playtime,rep_game
+0,Bluffing,47,7.12,68.19,Citadels
+0,Deduction,19,7.28,55.89,Codenames
+0,Economic,65,7.49,105.92,Puerto Rico
+0,Fighting,48,7.4,103.75,Small World
+0,Party Game,17,6.54,36.18,Dixit
+1,Bluffing,0,0.0,0.0,0
+1,Deduction,3,7.84,110.0,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases
+1,Economic,23,7.95,126.52,Agricola
+1,Fighting,21,7.52,113.33,Gloomhaven
+1,Party Game,1,5.58,20.0,Jenga
